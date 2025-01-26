@@ -19,5 +19,5 @@ This portfolio template is licensed under the MIT License. You are free to use, 
 
 Credits
 This portfolio template was created by ANSH SHARMA. If you have any questions or comments, you can reach me at anshsharma8nbi@gmail.com.
-# Right now this is not working and other one is live.
+Right now this is not working and other one is live.
 # https://myportfolio-plum-chi.vercel.app/
